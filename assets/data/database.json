@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Bhavan S",
+    "Semester": "S7",
+    "SCode": "21CS091",
+    "Department": "CSE",
+    "Email": "21CS091@mgits.ac.in",
+    "Year": "2021-25"
+  },
+  {
+    "Name": "ADVAITH NARAYANAN",
+    "Semester": "S7",
+    "SCode": "21CS051",
+    "Department": "CSE",
+    "Email": "21CS051@mgits.ac.in",
+    "Year": "2021-25"
+
+  },
+  {
+    "Name": "John De",
+    "Semester": "S7",
+    "SCode": "21CS093",
+    "Department": "CSE",
+    "Email": "21CS093@mgits.ac.in",
+    "Year": "2021-25"
+
+  },
+  {
+    "Name": "Jn Doe",
+    "Semester": "S7",
+    "SCode": "21CS094",
+    "Department": "CSE",
+    "Email": "21CS094@mgits.ac.in",
+    "Year": "2021-25"
+
+  }
+]
